@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Локальный тестовый лог (генерируется feed_test_log.py)
+test_auth.log
+
+# IDE / OS
+.idea/
+.vscode/
+Thumbs.db
+Desktop.ini
